@@ -1,0 +1,63 @@
+body{
+  padding: 10px;
+}
+.header {
+  background-color: #08FF;
+  color: #FFFFFF;
+  align: center;
+  padding: 10px;
+}
+
+.div_h1{
+  align: center;
+}
+
+.navigation {
+  font-size: 21px;
+  background-color:#333;
+  overflow: hidden;
+  padding: 10px;
+  display: block;
+}
+
+.left{
+  color: white;
+  font-size: 25px;
+  padding: 10px;
+  float: left;
+}
+.right{
+  color: white;
+  font-size: 25px;
+  padding: 10px;
+  float: right;
+}
+.content p{
+  font-size: 30px;
+  font-display: block;
+  font-weight: bolder;
+}
+.content p2{
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+.content p3{
+  padding-top: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.list-item{
+  font-size: 30px;
+  font-weight: bold;
+  width: 100%;
+  background-color: #08FF;
+  border: 10px solid #08FF;
+  cursor: pointer;
+  color: #FFFFFF
+}
+.description{
+  font-weight: lighter;
+  font-size: 20px;
+  padding: 50px;
+}
